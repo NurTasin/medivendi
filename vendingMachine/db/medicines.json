@@ -1,0 +1,18 @@
+{
+    "CAP. CEFIM-3 DS 400 MG":{
+        "price":30.65,
+        "available":3
+    },
+    "TAB. ACE XR 665 MG":{
+        "price":33.99,
+        "available":30
+    },
+    "TAB. MAXPRO 20 MG": {
+        "price":45,
+        "available":56
+    },
+    "TAB. FENADIN 120 MG":{
+        "price":105,
+        "available":10
+    }
+}
